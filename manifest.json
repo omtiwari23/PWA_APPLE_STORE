@@ -1,0 +1,28 @@
+{
+    "name":"Apple store",
+    "short_name":"Apple store",
+    "start_url":"/Final Files/index.html",
+    "display":"standalone",
+    "background_color":"#FFE9D2",
+    "theme_color":"#FFE9D2",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/Final Files/images/home1.png",
+            "type":"image/png",
+            "sizes":"72x72"
+
+        },
+        {
+            "src":"/Final Files/images/home2.png",
+            "type":"image/png",
+            "sizes":"144x144"
+        },
+        {
+            "src":"/Final Files/images/home3.png",
+            "type":"image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+    ]
+}
